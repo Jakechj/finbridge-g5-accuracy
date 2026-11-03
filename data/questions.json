@@ -1,0 +1,312 @@
+[
+ {
+  "id": 1,
+  "type": "major_event_recent30d",
+  "question_ko": "SK하이닉스가 2026년 10월 28일 공시한 주요사항보고서(자기주식 취득 결정)에서 취득예정금액과 취득예정주식 수는 각각 얼마인가?",
+  "answer": {
+   "value": {
+    "amount": 20007720000000,
+    "shares": 14920000
+   },
+   "unit": "원 / 주(보통주)",
+   "receipt_no": "20261028000014",
+   "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261028000014",
+   "checked_at": "2026-11-03T15:12:00+09:00",
+   "note": "취득기간 2026-10-29~2027-01-28, 장내매수. 주식수는 전일 종가 1,341,000원 기준 산정"
+  },
+  "company_size": "large"
+ },
+ {
+  "id": 2,
+  "type": "major_event_recent30d",
+  "question_ko": "셀트리온이 2026년 10월 26일 공시한 자기주식 취득 결정의 취득예정금액과 취득예정주식 수는?",
+  "answer": {
+   "value": {
+    "amount": 100000137600,
+    "shares": 514404
+   },
+   "unit": "원 / 주(보통주)",
+   "receipt_no": "20261026000084",
+   "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261026000084",
+   "checked_at": "2026-11-03T15:18:08+09:00",
+   "note": "취득기간 2026-10-27~2027-01-26"
+  },
+  "company_size": "large"
+ },
+ {
+  "id": 3,
+  "type": "major_event_recent30d",
+  "question_ko": "HD현대가 2026년 10월 27일 공시한 교환사채권 발행결정의 권면총액, 교환대상 회사, 교환가액은?",
+  "answer": {
+   "value": {
+    "face_amount": 588667443000,
+    "exchange_target": "HD현대마린솔루션 보통주",
+    "exchange_shares": 2383269,
+    "exchange_price": 247000
+   },
+   "unit": "원 / 주 / 원per주",
+   "receipt_no": "20261027000277",
+   "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261027000277",
+   "checked_at": "2026-11-03T15:18:08+09:00",
+   "note": "제19회 무기명식 무보증 사모 교환사채, 표면·만기이자율 0.0%, 자금목적 전액 채무상환자금"
+  },
+  "company_size": "large"
+ },
+ {
+  "id": 4,
+  "type": "major_event_recent30d",
+  "question_ko": "케이엠더블유가 2026년 10월 16일 공시한 전환사채권 발행결정의 권면총액과 자금조달 목적별 금액은?",
+  "answer": {
+   "value": {
+    "face_amount": 35000000000,
+    "facility": 15000000000,
+    "operating": 20000000000
+   },
+   "unit": "원",
+   "receipt_no": "20261016000208",
+   "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261016000208",
+   "checked_at": "2026-11-03T15:18:08+09:00",
+   "note": "제11회 무기명식 무이권부 무보증 사모 CB, 표면·만기이자율 0.0%"
+  },
+  "company_size": "small"
+ },
+ {
+  "id": 5,
+  "type": "major_event_recent30d",
+  "question_ko": "디오가 2026년 10월 19일 공시한 자기주식 취득 결정의 취득예정금액과 취득예정주식 수는?",
+  "answer": {
+   "value": {
+    "amount": 3000000000,
+    "shares": 322580
+   },
+   "unit": "원 / 주(보통주)",
+   "receipt_no": "20261019000160",
+   "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261019000160",
+   "checked_at": "2026-11-03T15:18:08+09:00",
+   "note": "취득기간 2026-10-20~2026-11-19"
+  },
+  "company_size": "small"
+ },
+ {
+  "id": 6,
+  "type": "major_event_recent30d",
+  "question_ko": "랩지노믹스가 2026년 10월 23일 공시한 자기주식 취득 결정의 취득예정금액과 취득예정주식 수는?",
+  "answer": {
+   "value": {
+    "amount": 1000000000,
+    "shares": 613496
+   },
+   "unit": "원 / 주(보통주)",
+   "receipt_no": "20261023000138",
+   "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261023000138",
+   "checked_at": "2026-11-03T15:18:08+09:00",
+   "note": "취득기간 2026-10-26~2027-01-22"
+  },
+  "company_size": "small"
+ },
+ {
+  "id": 7,
+  "type": "annual_report_financial",
+  "question_ko": "삼성전자의 2025년 연결 매출액은 얼마인가? (2025 사업보고서 기준)",
+  "answer": {
+   "value": 333605938,
+   "unit": "백만원",
+   "receipt_no": "20260310002820",
+   "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260310002820",
+   "checked_at": "2026-11-03T15:24:00+09:00",
+   "note": "요약연결재무정보. 영업이익 43,601,051 / 연결총당기순이익 45,206,805"
+  },
+  "company_size": "large"
+ },
+ {
+  "id": 8,
+  "type": "annual_report_financial",
+  "question_ko": "SK하이닉스의 2025년 연결 영업이익은 얼마인가? (2025 사업보고서 기준)",
+  "answer": {
+   "value": 47206319,
+   "unit": "백만원",
+   "receipt_no": "20260317000635",
+   "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260317000635",
+   "checked_at": "2026-11-03T15:24:00+09:00",
+   "note": "요약연결재무정보. 매출 97,146,675 / 연결총당기순이익 42,947,902"
+  },
+  "company_size": "large"
+ },
+ {
+  "id": 9,
+  "type": "annual_report_financial",
+  "question_ko": "현대로템의 2024년 연결 영업이익은 얼마인가? (2024 사업보고서 기준)",
+  "answer": {
+   "value": 456565534,
+   "unit": "천원",
+   "receipt_no": "20250321001612",
+   "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20250321001612",
+   "checked_at": "2026-11-03T15:24:00+09:00",
+   "note": "2025-03-21 기재정정본 기준. 최초본(20250318000847)과 값 동일. 매출 4,376,597,857천원"
+  },
+  "company_size": "large"
+ },
+ {
+  "id": 10,
+  "type": "annual_report_financial",
+  "question_ko": "셀트리온의 2025년 연결 당기순이익은 얼마인가? (2025 사업보고서 기준)",
+  "answer": {
+   "value": 1031483789240,
+   "unit": "원",
+   "receipt_no": "20260316001415",
+   "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260316001415",
+   "checked_at": "2026-11-03T15:24:00+09:00",
+   "note": "지배기업소유주지분 1,029,613,370,428원. 매출 4,162,495,108,881원 / 영업이익 1,168,471,345,595원"
+  },
+  "company_size": "large"
+ },
+ {
+  "id": 11,
+  "type": "annual_report_financial",
+  "question_ko": "파두의 2025년 연결 매출액은 얼마인가? (2025 사업보고서 기준)",
+  "answer": {
+   "value": 92419333233,
+   "unit": "원",
+   "receipt_no": "20260318001002",
+   "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260318001002",
+   "checked_at": "2026-11-03T15:24:00+09:00",
+   "note": "영업손실 65,469,985,712원 / 당기순손실 76,218,175,613원"
+  },
+  "company_size": "small"
+ },
+ {
+  "id": 12,
+  "type": "annual_report_financial",
+  "question_ko": "인텔리안테크의 2024년 연결 영업이익(손실)은 얼마인가? (2024 사업보고서 기준)",
+  "answer": {
+   "value": -19444,
+   "unit": "백만원",
+   "receipt_no": "20250320001529",
+   "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20250320001529",
+   "checked_at": "2026-11-03T15:24:00+09:00",
+   "note": "영업손실. 매출 257,769 / 당기순손실 3,012(백만원)"
+  },
+  "company_size": "small"
+ },
+ {
+  "id": 13,
+  "type": "annual_report_financial",
+  "question_ko": "디오의 2025년 연결 당기순이익(손실)은 얼마인가? (2025 사업보고서 기준)",
+  "answer": {
+   "value": -1363,
+   "unit": "백만원",
+   "receipt_no": "20260306000812",
+   "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260306000812",
+   "checked_at": "2026-11-03T15:24:00+09:00",
+   "note": "당기순손실. 매출 164,078 / 영업이익 10,105(백만원)"
+  },
+  "company_size": "small"
+ },
+ {
+  "id": 14,
+  "type": "annual_report_financial",
+  "question_ko": "랩지노믹스의 2024년 연결 매출액은 얼마인가? (2024 사업보고서 기준)",
+  "answer": {
+   "value": 85898310580,
+   "unit": "원",
+   "receipt_no": "20250318001452",
+   "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20250318001452",
+   "checked_at": "2026-11-03T15:24:00+09:00",
+   "note": "영업손실 18,490,511,780원 / 당기순손실 23,904,093,010원"
+  },
+  "company_size": "small"
+ },
+ {
+  "id": 15,
+  "type": "correction_before_after",
+  "question_ko": "현대로템이 2026년 10월 14일 낸 단일판매·공급계약체결 기재정정(최초 2022-10-25 공시 계약)에서 계약금액의 정정 전과 정정 후 값은?",
+  "answer": {
+   "value": {
+    "before": 728124800369,
+    "after": 823976904339
+   },
+   "unit": "원",
+   "receipt_no": "20261014800442",
+   "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261014800442",
+   "checked_at": "2026-11-03T15:21:00+09:00",
+   "note": "정정사유: 계약변경 공기연장비용 수령. 매출액 대비 22.1%→25.0%. 거래소 공시(접수번호 8자리째 8)"
+  },
+  "company_size": "large"
+ },
+ {
+  "id": 16,
+  "type": "correction_before_after",
+  "question_ko": "HD현대중공업이 2026년 10월 13일 낸 단일판매·공급계약체결 기재정정(FPU 1기, 멕시코)에서 계약금액의 정정 전과 정정 후 값은?",
+  "answer": {
+   "value": {
+    "before": 1953900000000,
+    "after": 1964800000000
+   },
+   "unit": "원",
+   "receipt_no": "20261013800234",
+   "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261013800234",
+   "checked_at": "2026-11-03T15:21:00+09:00",
+   "note": "최초 정정대상 공시 제출일 2026-09-30. 매출액 대비 21.60%→21.72%"
+  },
+  "company_size": "large"
+ },
+ {
+  "id": 17,
+  "type": "correction_before_after",
+  "question_ko": "선익시스템의 단일판매·공급계약체결 기재정정(OLED 연구용 증착장비, 최초 2026-02-02 공시)에서 확정 계약금액의 정정 전과 정정 후 값은?",
+  "answer": {
+   "value": {
+    "before": 9750000000,
+    "after": 8775000000
+   },
+   "unit": "원",
+   "receipt_no": "20261015900525",
+   "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261015900525",
+   "checked_at": "2026-11-03T15:21:00+09:00",
+   "note": "DART 접수 2026-10-15, 문서상 정정일자 2026-10-02. 미수령 잔금 975,000,000원 제외에 따른 정정. 매출액 대비 15.62%→14.06%"
+  },
+  "company_size": "small"
+ },
+ {
+  "id": 18,
+  "type": "point_in_time",
+  "question_ko": "2026년 3월 10일 시점에 DART에 공개돼 있던 신한지주의 가장 최근 사업보고서 기준, 지배기업 소유주지분 연결 당기순이익은 얼마인가?",
+  "answer": {
+   "value": 4450177,
+   "unit": "백만원",
+   "receipt_no": "20250318000993",
+   "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20250318000993",
+   "checked_at": "2026-11-03T15:26:00+09:00",
+   "note": "당시 최신 사업보고서=FY2024(2025-03-18 제출). FY2025 사업보고서는 2026-03-18 제출. 연결 당기순이익 총액 4,558,170"
+  },
+  "company_size": "large"
+ },
+ {
+  "id": 19,
+  "type": "point_in_time",
+  "question_ko": "2026년 3월 10일 시점에 DART에 공개돼 있던 오로스테크놀로지의 가장 최근 사업보고서 기준 연결 영업이익은 얼마인가?",
+  "answer": {
+   "value": 6083234932,
+   "unit": "원",
+   "receipt_no": "20250312000665",
+   "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20250312000665",
+   "checked_at": "2026-11-03T15:26:00+09:00",
+   "note": "당시 최신=FY2024(2025-03-12 제출). FY2025 사업보고서는 2026-03-13 제출. 매출 61,412,173,565원"
+  },
+  "company_size": "small"
+ },
+ {
+  "id": 20,
+  "type": "point_in_time",
+  "question_ko": "2026년 3월 15일 시점에 DART에 공개돼 있던 바이브컴퍼니의 가장 최근 사업보고서 기준 연결 매출액은 얼마인가?",
+  "answer": {
+   "value": 26341,
+   "unit": "백만원",
+   "receipt_no": "20250320000313",
+   "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20250320000313",
+   "checked_at": "2026-11-03T15:26:00+09:00",
+   "note": "당시 최신=FY2024(2025-03-20 제출). FY2025 사업보고서는 2026-03-20 제출. 영업손실 5,992백만원"
+  },
+  "company_size": "small"
+ }
+]

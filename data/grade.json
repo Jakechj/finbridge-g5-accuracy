@@ -1,0 +1,22 @@
+[
+{"id":1,"X":{"num":"correct","src":"exact","note":"금액·주식수 일치"},"Y":{"num":"wrong","src":"indirect","note":"금액 약 20조(실제 20조 77억, 억 단위 반올림 범위 밖), 주식수는 역산 추정 약 1,491만주로 14,920,000주와 불일치"}},
+{"id":2,"X":{"num":"correct","src":"exact","note":"일치"},"Y":{"num":"correct","src":"indirect","note":"주식수 정확, 금액 약 1,000억(억 단위 반올림 일치)"}},
+{"id":3,"X":{"num":"correct","src":"exact","note":"권면총액·대상·주식수·교환가액 일치"},"Y":{"num":"correct","src":"indirect","note":"5,887억(억 단위 일치), 대상·교환가액 일치"}},
+{"id":4,"X":{"num":"correct","src":"exact","note":"권면총액·시설·운영자금 일치"},"Y":{"num":"none","src":"none","note":"찾지 못함"}},
+{"id":5,"X":{"num":"correct","src":"exact","note":"일치"},"Y":{"num":"correct","src":"indirect","note":"집계 사이트 기준, 값 일치"}},
+{"id":6,"X":{"num":"correct","src":"exact","note":"일치"},"Y":{"num":"none","src":"none","note":"모른다고 함"}},
+{"id":7,"X":{"num":"correct","src":"exact","note":"원 환산 일치"},"Y":{"num":"wrong","src":"indirect","note":"약 333.6조(분기 합산). 실제 333조 6,059억, 억 단위 반올림 기준 미달. 애매 판정"}},
+{"id":8,"X":{"num":"correct","src":"exact","note":"일치"},"Y":{"num":"correct","src":"indirect","note":"47조 2,063억, 억 단위 일치(회사 실적 발표)"}},
+{"id":9,"X":{"num":"correct","src":"exact","note":"정답 접수번호(정정본) 포함, 최초본도 병기"},"Y":{"num":"correct","src":"indirect","note":"4,566억 억 단위 일치, 출처는 잠정실적 기사"}},
+{"id":10,"X":{"num":"correct","src":"exact","note":"원 단위 일치"},"Y":{"num":"correct","src":"indirect","note":"1조 315억 억 단위 일치, 잠정실적 기사"}},
+{"id":11,"X":{"num":"correct","src":"exact","note":"일치"},"Y":{"num":"correct","src":"indirect","note":"약 924억 억 단위 일치"}},
+{"id":12,"X":{"num":"correct","src":"exact","note":"-19,443,692,778원 = -19,444백만"},"Y":{"num":"wrong","src":"indirect","note":"-182억, 정답 -194억"}},
+{"id":13,"X":{"num":"correct","src":"exact","note":"-1,363,455,464원 = -1,363백만"},"Y":{"num":"wrong","src":"indirect","note":"약 -10억, 정답 -13.6억"}},
+{"id":14,"X":{"num":"correct","src":"exact","note":"일치"},"Y":{"num":"correct","src":"indirect","note":"원 단위 일치, 집계 사이트"}},
+{"id":15,"X":{"num":"correct","src":"exact","note":"정정 전후 모두 일치"},"Y":{"num":"none","src":"none","note":"모른다고 함"}},
+{"id":16,"X":{"num":"correct","src":"exact","note":"정정 전후 모두 일치"},"Y":{"num":"correct","src":"indirect","note":"정정 후 정확, 정정 전은 109억 증액에서 역산한 추정(1조 9,539억)이나 값은 일치. 애매 판정"}},
+{"id":17,"X":{"num":"correct","src":"exact","note":"정정 전후 모두 일치"},"Y":{"num":"none","src":"none","note":"모른다고 함"}},
+{"id":18,"X":{"num":"correct","src":"exact","note":"FY2024 기준 일치, 룩어헤드 없음"},"Y":{"num":"wrong","src":"indirect","note":"FY2024 선택은 맞으나 4조 5,175억(잠정실적 기사)으로 정답 4조 4,502억과 불일치. 룩어헤드 아님. 기사 날짜(2025-02) 출처와 값은 서로 맞음"}},
+{"id":19,"X":{"num":"correct","src":"exact","note":"값 일치. 다만 FY2025 제출일을 2026-03-23으로 적어 정답표(03-13)와 다름, 판정에는 영향 없음"},"Y":{"num":"wrong","src":"indirect","note":"약 60억(리포트 반올림), 정답 60.8억은 억 단위로 61억. 애매 판정"}},
+{"id":20,"X":{"num":"correct","src":"exact","note":"일치"},"Y":{"num":"correct","src":"indirect","note":"원 단위 일치, 연결 여부 미확인이라 했으나 값은 일치"}}
+]
